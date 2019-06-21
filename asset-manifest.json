@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/juliana-yukari/static/css/main.2e0e255d.chunk.css",
+    "main.js": "/juliana-yukari/static/js/main.897cdff6.chunk.js",
+    "main.js.map": "/juliana-yukari/static/js/main.897cdff6.chunk.js.map",
+    "runtime~main.js": "/juliana-yukari/static/js/runtime~main.789253d7.js",
+    "runtime~main.js.map": "/juliana-yukari/static/js/runtime~main.789253d7.js.map",
+    "static/js/2.6ae588c1.chunk.js": "/juliana-yukari/static/js/2.6ae588c1.chunk.js",
+    "static/js/2.6ae588c1.chunk.js.map": "/juliana-yukari/static/js/2.6ae588c1.chunk.js.map",
+    "index.html": "/juliana-yukari/index.html",
+    "precache-manifest.8a71a92deb41fbc52286f3fafae73957.js": "/juliana-yukari/precache-manifest.8a71a92deb41fbc52286f3fafae73957.js",
+    "service-worker.js": "/juliana-yukari/service-worker.js",
+    "static/css/main.2e0e255d.chunk.css.map": "/juliana-yukari/static/css/main.2e0e255d.chunk.css.map",
+    "static/media/Resume_Juliana.pdf": "/juliana-yukari/static/media/Resume_Juliana.d713ac7d.pdf",
+    "static/media/styles.css": "/juliana-yukari/static/media/bg4.1d458824.jpg",
+    "static/media/bulb.png": "/juliana-yukari/static/media/bulb.fc92ebd7.png",
+    "static/media/img1.jpeg": "/juliana-yukari/static/media/img1.3d6637d5.jpeg",
+    "static/media/img2.jpeg": "/juliana-yukari/static/media/img2.f9b68cb5.jpeg",
+    "static/media/img3.jpg": "/juliana-yukari/static/media/img3.0c7ccdf6.jpg",
+    "static/media/juliana.png": "/juliana-yukari/static/media/juliana.43d67fe4.png",
+    "static/media/sicov.png": "/juliana-yukari/static/media/sicov.970d0214.png",
+    "static/media/site.png": "/juliana-yukari/static/media/site.a2562566.png"
+  }
+}
