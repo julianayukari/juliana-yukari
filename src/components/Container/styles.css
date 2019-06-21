@@ -1,0 +1,40 @@
+.container{
+    width: 100%;
+    height: auto;
+    color: white;
+    display: flex;
+    text-align: center; 
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+ 
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.items{
+    align-items: center;
+}
+
+
+.justify-sa{
+    justify-content: space-around;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+
+@media (max-width: 1200px) 
+{
+    .row{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}

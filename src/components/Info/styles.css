@@ -1,0 +1,26 @@
+#infos{
+    background:url(../Images/bg2.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: justify;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#infos h6{
+    padding-top: 20px; 
+    font-size: 25px;
+    color: black;
+    padding-bottom: 15px; 
+}
+
+
+.icon{
+    width: 60px;
+    height: 60px;
+}
+
+span{
+    color:rgb(79, 159, 190);
+    font-weight: bold;
+}

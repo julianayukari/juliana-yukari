@@ -1,0 +1,23 @@
+.btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background: none;
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    margin-top:10px; 
+    margin-bottom:10px; 
+  }
+  
+  .btn:hover {
+    background:  linear-gradient(to right,#2ebf91, #8360c3);
+    color: white;
+  }
+  

@@ -1,0 +1,13 @@
+#contato{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#repos-filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}

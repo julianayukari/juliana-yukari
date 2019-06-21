@@ -1,0 +1,41 @@
+.pbranco{
+    color: white;
+    font-size: 16px;
+    padding-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ppreto{
+    color: black;
+    font-size: 16px;
+    padding-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h4branco{
+    color: white;
+    font-size: 2rem;
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h4preto{
+    color: black;
+    font-size: 2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.h5preto{
+    color: black;
+    font-size: 1.2rem;
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.justify{
+    text-align: justify;
+}

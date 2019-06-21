@@ -1,0 +1,48 @@
+.banner-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+    opacity: 0.8;
+    width: 75%;
+    margin: 20px;
+    border-radius: 10px;
+    
+}
+
+.banner-text h1{
+    padding-top: 4px;
+    text-align: center;
+    color: white;
+    font-size:3rem;
+    font-family: 'Parisienne', cursive;
+    text-transform: none;
+    font-weight: normal;
+}
+
+.banner-text p{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+@media (max-width: 1200px) 
+{
+    .banner-text h1{
+        padding-top: 4px;
+        text-align: center;
+        color: white;
+        font-size:2rem;
+        font-family: 'Parisienne', cursive;
+        text-transform: none;
+        font-weight: normal;
+    }
+    
+    .banner-text p{
+        color: white;
+        font-size: 15px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+    }
+}

@@ -1,0 +1,15 @@
+#blog{
+    background-color: black;
+}
+
+.img-robo{
+    width: 100%;
+    height: 240px;
+    filter:grayscale(100%);
+}
+
+
+img:hover {
+    filter:none;
+}
+
